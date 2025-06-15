@@ -48,10 +48,7 @@ div.f6dof87.f6dof89 {
   max-width: 100px !important;
   max-height: 100px !important;
   background-color: transparent !important;
-  border: 2px solid #F8263E !important;
-  border-color: #F8263E !important;
-  border-width: 2px !important;
-  border-style: solid !important;
+  border: none !important;
   box-shadow: none !important;
   outline: none !important;
   border-radius: 50% !important;
@@ -113,6 +110,12 @@ div.f6dof80:has(img[alt="open chat"]) {
   transform: none !important;
   aspect-ratio: 1/1 !important;
   transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out !important;
+}
+
+/* Enlarge image on hover */
+.vfrc-button._1q15b0b0.c26d8x0._1q15b0b2.vfrc-launcher.f6dof81._1q15b0b0.c26d8x0._1q15b0b5:hover img.f6dof8u.f6dof8w.f6dof8h,
+.vfrc-button._1q15b0b0.c26d8x0._1q15b0b2.vfrc-launcher.f6dof81._1q15b0b0.c26d8x0._1q15b0b5:hover img[alt="open chat"] {
+  transform: scale(1.1) !important;
 }
 
 /* Keyframes for the image glow pulse */
