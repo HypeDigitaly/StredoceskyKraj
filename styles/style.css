@@ -444,7 +444,7 @@ div[class*="vfrc-header"] img.vfrc-avatar {
   background-color: transparent !important; /* Removes any default background color from other rules */
   background-image: none !important; /* Removes any default background image */
   padding: 0 !important; /* Resets padding */
-  margin: 2px 0 0 10px !important;  /* Updated: 2px top, 0 right, 0 bottom, 10px left margin (shifted 25px right from -15px) */
+  margin: 2px 0 0 0px !important;  /* Updated: 2px top, 0 right, 0 bottom, 10px left margin (shifted 25px right from -15px) */
 }
 
 .vfrc-header + div {
