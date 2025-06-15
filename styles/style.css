@@ -137,7 +137,7 @@ button.vfrc-button._1q15b0b0.c26d8x0._1q15b0b2.vfrc-launcher.f6dof81._1q15b0b0.c
   min-height: 42px !important;
   max-width: 42px !important;
   max-height: 42px !important;
-  background-color: #F8263E !important;
+  background-color: #E31F27 !important;
   border-radius: 9999px !important;
   overflow: hidden !important;
   transform: none !important;
@@ -238,7 +238,7 @@ button[label="Cancel"] span,
 /* Start new chat translation - all variations */
 button[label="Start new chat"],
 #vfrc-start-chat {
-  background-color: #F8263E !important;
+  background-color: #E31F27 !important;
   border-radius: 4px !important;
   padding: 10px 20px !important;
 }
@@ -260,7 +260,7 @@ button[label="Start new chat"]::before,
 
 /* Cancel translation */
 button[label="Cancel"] {
-  background-color: #F8263E !important;
+  background-color: #E31F27 !important;
   border-radius: 4px !important;
   padding: 10px 20px !important;
 }
@@ -392,8 +392,8 @@ div._6r9xee3.o231sh1 {
   z-index: 0 !important;
   border-radius: 10px !important;
   background-color: #FFFFFF !important;
-  color: #F8263E !important;
-  border: 2px solid #F8263E !important;
+  color: #E31F27 !important;
+  border: 2px solid #E31F27 !important;
   opacity: 1 !important;
 
   /* Restore ONLY scale pulse animation */
@@ -416,7 +416,7 @@ div._6r9xee3.o231sh1 > * {
 /* ================= HEADER STYLING ================= */
 .vfrc-header,
 div[class*="vfrc-header"] {
-  background-color: #F8263E !important;
+  background-color: #FFFFFF !important;
 }
 
 /* ================= CHATBOT AVATAR IMAGE STYLING ================= */
@@ -431,7 +431,7 @@ img.vfrc-image {
 
 /* ================= ICON COLOR STYLING ================= */
 .vfrc-icon {
-  color: #F8263E !important;
+  color: #E31F27 !important;
 }
 
 /* ================= HEADER USER AVATAR STYLING (Královéhradecký kraj logo) ================= */
@@ -452,6 +452,6 @@ div[class*="vfrc-header"] img.vfrc-avatar {
 }
 
 .vfrc-header .vfrc-icon {
-  color: #FFFFFF !important;
-  fill: #FFFFFF !important;
+  color: #E31F27 !important;
+  fill: #E31F27 !important;
 }
